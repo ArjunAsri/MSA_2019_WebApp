@@ -1,6 +1,16 @@
 
 ## Usage
 
+Docker was used to create an Image of the app that was pushed to the Azure resource group and used for Web App. I tried with GitHub however, for some reason the app did not respond. There were compile errors due to wrong node modules which were fixed but the app still did not work. 
+
+Link to the App https://msa2019phase1app.azurewebsites.net/
+
+There are 2 screenshots in the repo for the Microsoft Build Simple Website Module.
+The link for the Microsoft Build Simple Website Module repo is https://github.com/ArjunAsri/Microsoft-Build-Simple-Website-Module
+
+
+
+
 To run the project, clone the repo, navigate to the root directory, and type `npm install` in a new terminal window.
 
 Once the *node_modules* folder has been created and all the dependencies have been successfully installed. 
