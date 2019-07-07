@@ -1,5 +1,5 @@
 
-## README
+## ReadMe
 
 Docker was used to create an Image of the app that was pushed to the Azure resource group and used for Web App. I tried with GitHub however, for some reason the app did not respond. There were compile errors due to wrong node modules which were fixed but the app still did not work. 
 
